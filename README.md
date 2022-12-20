@@ -9,12 +9,13 @@
 
 - 💬 Contact me **ceder.kristian@gmail.com**
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Check out my latest project
+<h3 align="center">Check out my latest project
 
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
- <a href="https://github.com/kceder/Matcha">Matcha - A dating site ❤️</a>
+   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+ <a href="https://github.com/kceder/Matcha">Matcha - A dating site</a>
       </div>
 
 </p>
