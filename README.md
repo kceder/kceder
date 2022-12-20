@@ -3,8 +3,7 @@
 
 - 👨🏽‍💻 I’m currently finishing my studies at Hive Helsinki
 
-- 🌱 Currently Working on Streaming service (React, Node.js, express) in a three
-     person team
+- 🌱 Currently Working on Streaming service (React, Node.js, express)
 
 - 🤝 I’m interested in job opportunities in web/app development.
 
