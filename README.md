@@ -7,9 +7,15 @@
 
 - Full Stack Open 2022.
 
+- Skills in: React, JavaScript, TypeScript, Node, PHP, C, Git, databases, UI design, SQL, Tailwind, Bootstrap and more.
+
+- Soft-skills: Awesome!
+
+- 📚 Constantly learning!
+
 - 💬 Contact me **ceder.kristian@gmail.com**
 
-<h3 align="center">Check out my latest project
+<h4 align="center">Check out my latest project (It's actually second to latest and I am working to deploy live version of my latest 😎)
 
 <p align="center">
 
@@ -19,6 +25,6 @@
       </div>
 
 </p>
-</h3>
+</h4>
 
 ---
