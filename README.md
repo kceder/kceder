@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋,  I'm Kristian</h1>
 <h3 align="center">A passionate full stack developer from Helsinki 🇫🇮</h3>
 
-- 👨🏽‍💻 I’m currently finishing my studies at Hive Helsinki
+- 🌱 Currently Working on Streaming service (React, Node.js, Tailwind, Express, Postgres)
 
-- 🌱 Currently Working on Streaming service (React, Node.js, express)
+- 👨🏽‍💻 Gratuated from Hive Helsinki. Specialized in Web Applications.
 
-- 🤝 I’m interested in job opportunities in web/app development.
+- Full Stack Open 2022.
 
 - 💬 Contact me **ceder.kristian@gmail.com**
 
