@@ -15,13 +15,15 @@
 
 - 💬 Contact me **ceder.kristian@gmail.com**
 
-<h4 align="center">Check out my latest project (It's actually second to latest and I am working to deploy live version of my latest 😎)
+<h4 align="center">Check out my latest projects
 
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
  <a href="https://github.com/kceder/Matcha">Matcha - A dating site</a>
+      </div>
+  <div align="center"  class="icons-social" style="margin-left: 10px;">
+ <a href="https://github.com/kceder/HyperTube">HyperTube - A streaming service</a>
       </div>
 
 </p>
