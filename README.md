@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋,  I'm Kristian</h1>
 <h3 align="center">A passionate full stack developer from Helsinki 🇫🇮</h3>
 
+- #### A bit more about me [here](https://kceder.github.io/Portfolio/) !
+
 - 🌱 Currently Working on Streaming service (React, Node.js, Tailwind, Express, Postgres)
 
 - 👨🏽‍💻 Gratuated from Hive Helsinki. Specialized in Web Applications.
