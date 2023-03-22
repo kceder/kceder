@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,  I'm Kristian</h1>
 <h3 align="center">A passionate full stack developer from Helsinki 🇫🇮</h3>
 
-- #### A bit more about me [in my portfolio site](https://kceder.github.io/Portfolio/) !
+- #### A bit more about me [in my portfolio site](https://kceder.github.io/Portfolio/) ! (updated 02/2023)
 
 - 🌱 Currently Working on Streaming service (React, Node.js, Tailwind, Express, Postgres)
 
